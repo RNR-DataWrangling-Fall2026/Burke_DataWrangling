@@ -1,2 +1,8 @@
 # Burke_DataWrangling
-GitHub repo for remainder of Fall 2026 Data Wrangling Course
+
+GitHub repository for Fall 2026 Data Wrangling.
+
+## Assignments
+
+Week 11 - Functions:
+[Week 11 Assignment](Week11_Functions/code/Week11_Assignment.md)
